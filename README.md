@@ -1,1 +1,1 @@
-# polysemy_xlang_wsi
+# Polysemy Across Languages
